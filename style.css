@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: var(--dark-grayish-blue);
+  color: var(--dark-grayish-blue);
   font-family: "Bai Jamjuree", sans-serif;
   margin: 0;
   text-align: center;
